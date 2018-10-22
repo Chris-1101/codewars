@@ -1,6 +1,6 @@
 # Strings Mix
 
-> Given two strings `s1` and `s2`, we want to visualize how different the two strings are. We will only take into account the lowercase letters `a - z`.
+> Given two strings `s1` and `s2`, we want to visualise how different the two strings are. We will only take into account the lowercase letters `a - z`.
 >
 > The task is to produce a string in which each lowercase letters of s1 or s2 appears as many times as its maximum if this maximum is strictly greater than 1; these letters will be prefixed by the number of the string where they appear with their maximum value and `:`. If the maximum is in s1 as well as in s2 the prefix is `=:`.
 >
