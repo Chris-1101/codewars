@@ -1,4 +1,4 @@
-# CodeWars <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/cplusplus/cplusplus-plain.svg?sanitize=true" alt="C++" width="32" height="32" /> [![License](https://img.shields.io/github/license/Chris-1101/boxecho.svg)](https://github.com/Chris-1101/boxecho/blob/master/LICENSE.md)
+# CodeWars <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/cplusplus/cplusplus-plain.svg?sanitize=true" alt="C++" width="24" height="24" /> [![License](https://img.shields.io/github/license/Chris-1101/boxecho.svg)](https://github.com/Chris-1101/boxecho/blob/master/LICENSE.md)
 
 ```
 I upload these as-is from my local testing environment.
