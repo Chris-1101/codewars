@@ -16,8 +16,8 @@ nkyu-kataname
 
 * 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-strmix)
 * 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sqrsqr)
-* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-dirreduc)
 * 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumsqr)
 * 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-mtpstr)
+* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-dirreduc)
 * 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars-cpp/tree/master/6kyu-revrot)
 * 7-Kyu ፨ [Get Middle](https://github.com/Chris-1101/codewars-cpp/tree/master/7kyu-getmid)
