@@ -7,6 +7,10 @@ using namespace std;
 
 int main(void)
 {
+  // Fringe Tests
+  unit_test<int, int>(last_digit({    }), 1);
+  unit_test<int, int>(last_digit({0, 0}), 1);
+
   // Unit Tests
   unit_test<int, int>(last_digit({ 0,  0,  0}), 0);
   unit_test<int, int>(last_digit({ 1,  2    }), 1);
