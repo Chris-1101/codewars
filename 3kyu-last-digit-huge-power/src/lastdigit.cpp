@@ -6,13 +6,6 @@
 
 int last_digit(std::list<int> arr)
 {
-// debug
-for (auto e : arr)
-{
-  std::cout << e << ", ";
-}
-std::cout << std::endl;
-
   if (arr.size() == 0) return 1;
   if (arr.size() == 1) return arr.back() % 10;
 
@@ -21,11 +14,7 @@ std::cout << std::endl;
   int base = power.front(), exponent = power.back(), next;
   arr.pop_back(); arr.pop_back();
 
-// debug
-std::cout << "base: " << base << std::endl;
-std::cout << "exponent: " << exponent << std::endl;
-
-  if (exponent > 1)
+  if (exponent > 1) // replace with switch? + commit first
   {
     next = std::pow(base % 100, exponent % 4 + 4);
   }
