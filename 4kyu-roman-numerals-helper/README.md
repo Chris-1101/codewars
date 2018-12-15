@@ -24,3 +24,5 @@
 > | C      | 100   |
 > | D      | 500   |
 > | M      | 1000  |
+
+[Kata](https://www.codewars.com/kata/roman-numerals-helper) by [jhoffner](https://www.codewars.com/users/jhoffner) @ [CodeWars](https://www.codewars.com)
