@@ -1,6 +1,5 @@
 # Last Digit of a Huge Number
 
-:construction: **Unsolved**: test case 2 <sup>2 <sup>101 <sup>2</sup></sup></sup> ≡ 6, `last_digit({ 2, 2, 101, 2 }) == 6;` failing with current algorithm. One test amongst over a hundred to fail. Very frustrating!
 > For a given std::list&lt;int&gt; `{ x1, x2, x3, ..., xn }`, compute the last (decimal) digit of `x1 ^ (x2 ^ (x3 ^ (... ^ xn)))`.
 > * Assume 0 <sup>0</sup> = 1
 > * Treat an empty list as equal to 1
