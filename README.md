@@ -14,7 +14,7 @@ nkyu-kataname
 └─ README.md
 ```
 
-* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars-cpp/tree/master/3kyu-last-digit-huge-power) (Unsolved, 1 test failing)
+* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars-cpp/tree/master/3kyu-last-digit-huge-power)
 * 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-strmix)
 * 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-large-factorials)
 * 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sqrsqr)
