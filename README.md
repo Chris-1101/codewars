@@ -19,6 +19,7 @@ nkyu-kataname
 * 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-large-factorials)
 * 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumstr)
 * 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sqrsqr)
+* 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-roman-numerals-helper)
 * 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumsqr)
 * 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-mtpstr)
 * 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-dirreduc)
