@@ -1,42 +1,28 @@
-#include <iomanip>
-#include <sstream>
 #include <string>
 #include <algorithm>
 
-std::string pad(const std::string& str, int amount)
-{
-  std::stringstream ss;
-  ss << std::setfill('0') << std::setw(amount) << str;
-  return ss.str();
-}
-
-std::string trimLeading(const char& c, std::string& str)
-{
-  return str.erase(0, std::min(str.find_first_not_of(c), str.size() - 1));
-}
+#include "sumstr.hpp"
 
 std::string add(std::string num1, std::string num2)
 {
-  unsigned short max_len = std::max(num1.length(), num2.length());
-  num1 = pad(num1, max_len);
-  num2 = pad(num2, max_len);
+  const size_t max_len = std::max(num1.length(), num2.length());
 
-  std::reverse(num1.begin(), num1.end());
-  std::reverse(num2.begin(), num2.end());
+  num1.insert(0, max_len - num1.length(), '0');
+  num2.insert(0, max_len - num2.length(), '0');
 
-  std::stringstream res_total;
-  short carry = 0;
+  unsigned i = max_len, carry = 0;
+  std::string result;
 
-  for (unsigned short i = 0; i < max_len; ++i)
+  while (i--)
   {
-    short res_current = (num1[i] - '0') + (num2[i] - '0') + carry;
-    res_total << res_current % 10;
-    carry = res_current / 10;
+    unsigned sum = (num1[i] - '0') + (num2[i] - '0') + carry;
+    result.push_back(sum % 10 + '0');
+    carry = sum / 10;
   }
-  res_total << carry;
+  result.push_back(carry + '0');
 
-  std::string result = res_total.str();
   std::reverse(result.begin(), result.end());
+  result.erase(0, std::min(result.find_first_not_of('0'), result.length() - 1));
 
-  return trimLeading('0', result);
+  return result;
 }
