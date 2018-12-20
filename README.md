@@ -14,14 +14,14 @@ nkyu-kataname
 └─ README.md
 ```
 
-* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars-cpp/tree/master/3kyu-last-digit-huge-power)
-* 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-strmix)
-* 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-large-factorials)
-* 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sqrsqr)
-* 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumstr)
-* 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumsqr)
-* 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-roman-numerals-helper)
-* 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-mtpstr)
-* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-dirreduc)
-* 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars-cpp/tree/master/6kyu-revrot)
-* 7-Kyu ፨ [Get Middle](https://github.com/Chris-1101/codewars-cpp/tree/master/7kyu-getmid)
+* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars-cpp/tree/master/3kyu-last-digit-huge-power) <!-- 11 -->
+* 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-strmix) <!-- 04 -->
+* 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-large-factorials) <!-- 09 -->
+* 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sqrsqr) <!-- 05 -->
+* 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-adding-big-numbers) <!-- 08 -->
+* 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sumsqr) <!-- 06 -->
+* 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-roman-numerals-helper) <!-- 10 -->
+* 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-mtpstr) <!-- 07 -->
+* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-dirreduc) <!-- 03 -->
+* 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars-cpp/tree/master/6kyu-revrot) <!-- 01 -->
+* 7-Kyu ፨ [Get Middle](https://github.com/Chris-1101/codewars-cpp/tree/master/7kyu-getmid) <!-- 02 -->
