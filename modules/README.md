@@ -1,12 +1,11 @@
 # Modules
 :memo: Helper modules that I commonly use during the course of codewars / coldegolf challenges.
 
----
 ## Specs Module
 :white_check_mark: Simple class module for creating unit tests.  
-<small>ps: yes, `Specs` goes against singular class naming convention, but `Spec` just looked odd!</small>
+<small>ps: `Specs` goes against singular class naming convention, but in this case `Spec` just didn't feel right to me.
 
-### Example Usage
+#### Example Usage
 ```C++
 #include "specs.hpp"
 // ...
@@ -21,17 +20,16 @@ tests.create(sum("314", "45"), "359");
 tests.run();
 ```
 
-### Output
+#### Output
 > ```
 > ✘ expected: 0, received: 000   // appears for every failed test
 > ∙∙∙∙                           // one symbol per test, ordered, green if passed, red if failed
 > ```
 
----
 ## Random String Generator
 :pencil2: Genereates a random alphabetical string with spaces and punctuation.
 
-### Usage
+#### Usage
 ```C++
 #include "randstr.hpp"
 // ...
@@ -39,11 +37,10 @@ std::string str = random_string(12);   // length argument optional
 std::string str = random_string();     // defaults to 20
 ```
 
----
 ## Simple Unit Test Module
 :white_check_mark: Old unit test module for C++. No longer used.
 
-### Usage
+#### Usage
 ```C++
 #include "unittest.hpp"
 // ...
