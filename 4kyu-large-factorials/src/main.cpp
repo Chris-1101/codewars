@@ -1,15 +1,21 @@
 #include <string>
 
+#include "specs.hpp"
 #include "factorial.hpp"
-#include "unittest.hpp"
 using namespace std;
 
 // Compiled using:
-// g++ src/main.cpp src/factorial.cpp -o bin/main -Wall -iquote include/ -iquote ../unit-test/ -g
+// g++ src/main.cpp src/factorial.cpp -o bin/main -Wall -iquote include -iquote ../modules -g
 
 int main(void)
 {
-  unit_test<string, string>(factorial( 5), "120");
-  unit_test<string, string>(factorial(13), "6227020800");
-  unit_test<string, string>(factorial(25), "15511210043330985984000000");
+  Specs<string> tests;
+
+  // Base tests
+  tests.create(factorial( 5), "120");
+  tests.create(factorial( 6), "720");
+  tests.create(factorial(13), "6227020800");
+  tests.create(factorial(25), "15511210043330985984000000");
+
+  tests.run();
 }
