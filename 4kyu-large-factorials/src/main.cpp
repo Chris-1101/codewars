@@ -4,9 +4,6 @@
 #include "factorial.hpp"
 using namespace std;
 
-// Compiled using:
-// g++ src/main.cpp src/factorial.cpp -o bin/main -Wall -iquote include -iquote ../modules -g
-
 int main(void)
 {
   Specs<string> tests;
@@ -18,4 +15,5 @@ int main(void)
   tests.create(factorial(25), "15511210043330985984000000");
 
   tests.run();
+  return 0;
 }
