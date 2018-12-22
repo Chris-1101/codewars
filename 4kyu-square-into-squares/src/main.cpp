@@ -7,7 +7,7 @@ int main (void)
 {
   vector<long long> res = Decomp::decompose(11);
 
-  for (auto &num : res)
+  for (auto const& num : res)
   {
     cout << num << endl;
   }
