@@ -2,7 +2,7 @@
 
 ```
 I upload these as-is from my local testing environment.
-Typical directory structure follows:
+Typical directory structure for C++ challenges follows:
 
 nkyu-kataname
 ├─ include
@@ -14,14 +14,16 @@ nkyu-kataname
 └─ README.md
 ```
 
-* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars-cpp/tree/master/3kyu-last-digit-huge-power) <!-- 11 -->
-* 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-strings-mix) <!-- 04 -->
-* 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-large-factorials) <!-- 09 -->
-* 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-square-into-squares) <!-- 05 -->
-* 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-adding-big-numbers) <!-- 08 -->
-* 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-sum-perfect-squares) <!-- 06 -->
-* 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-roman-numerals-helper) <!-- 10 -->
-* 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars-cpp/tree/master/4kyu-multiply-numbers-as-strings) <!-- 07 -->
-* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars-cpp/tree/master/5kyu-directions-reduction) <!-- 03 -->
-* 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars-cpp/tree/master/6kyu-reverse-or-rotate) <!-- 01 -->
-* 7-Kyu ፨ [Get Middle](https://github.com/Chris-1101/codewars-cpp/tree/master/7kyu-get-middle) <!-- 02 -->
+* 2-Kyu ፨ [Multi Line Task++: Hello World](https://github.com/Chris-1101/codewars/tree/master/2kyu-multi-line-task) <!-- 13 -->
+* 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars/tree/master/3kyu-last-digit-huge-power) <!-- 11 -->
+* 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars/tree/master/4kyu-strings-mix) <!-- 04 -->
+* 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars/tree/master/4kyu-large-factorials) <!-- 09 -->
+* 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars/tree/master/4kyu-square-into-squares) <!-- 05 -->
+* 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars/tree/master/4kyu-adding-big-numbers) <!-- 08 -->
+* 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars/tree/master/4kyu-sum-perfect-squares) <!-- 06 -->
+* 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars/tree/master/4kyu-roman-numerals-helper) <!-- 10 -->
+* 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars/tree/master/4kyu-multiply-numbers-as-strings) <!-- 07 -->
+* 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars/tree/master/5kyu-directions-reduction) <!-- 03 -->
+* 5-Kyu ፨ [Rot13 Cipher](https://github.com/Chris-1101/codewars/tree/master/5kyu-rot13-cipher) <!-- 12 -->
+* 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars/tree/master/6kyu-reverse-or-rotate) <!-- 01 -->
+* 7-Kyu ፨ [Get Middle](https://github.com/Chris-1101/codewars/tree/master/7kyu-get-middle) <!-- 02 -->
