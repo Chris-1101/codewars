@@ -1,8 +1,8 @@
+#include <cctype>
 #include <vector>
 #include <string>
 #include <sstream>
 #include <unordered_map>
-#include <iostream> // debug
 
 #include "assembler.hpp"
 
@@ -21,14 +21,18 @@ std::unordered_map<std::string, int> assembler(std::vector<std::string> const& a
 {
   std::unordered_map<std::string, int> registers;
 
+  auto get_val = [&](std::string ins) -> int
+  {
+    return isalpha(ins[0]) ? registers[ins] : std::stoi(ins);
+  };
   for (unsigned i = 0; i < assembly.size(); i++)
   {
     std::vector<std::string> instruction = split(assembly[i]);
 
-    if (instruction[0] == "mov") registers[instruction[1]] = std::stoi(instruction[2]);
+    if (instruction[0] == "mov") registers[instruction[1]] = get_val(instruction[2]);
     if (instruction[0] == "inc") registers[instruction[1]]++;
     if (instruction[0] == "dec") registers[instruction[1]]--;
-    if (instruction[0] == "jnz" && registers[instruction[1]] != 0) i += (std::stoi(instruction[2]) < 0) ? -1 + std::stoi(instruction[2]) : std::stoi(instruction[2]);
+    if (instruction[0] == "jnz" && get_val(instruction[1]) != 0) i += -1 + get_val(instruction[2]);
   }
   return registers;
 }
