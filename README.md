@@ -4,11 +4,11 @@
 I upload these as-is from my local testing environment.
 Typical directory structure for C++ challenges follows:
 
-nkyu-kataname
+nkyu-kata-name
 ├─ include
-│  └─ functionname.hpp (header file)
+│  └─ functionname.hpp (module header)
 ├─ src
-│  ├─ functionname.cpp (implementation file)         ⇐ solution
+│  ├─ functionname.cpp (module implementation)         ⇐ solution
 │  └─ main.cpp (improvised unit tests, debugging)
 ├─ .gitignore (excludes binaries/objects)
 └─ README.md
@@ -23,6 +23,7 @@ nkyu-kataname
 * 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars/tree/master/4kyu-sum-perfect-squares) <!-- 06 -->
 * 4-Kyu ፨ [Roman Numerals Helper](https://github.com/Chris-1101/codewars/tree/master/4kyu-roman-numerals-helper) <!-- 10 -->
 * 4-Kyu ፨ [Multiply Numbers as Strings](https://github.com/Chris-1101/codewars/tree/master/4kyu-multiply-numbers-as-strings) <!-- 07 -->
+* 5-Kyu ፨ [Simple Assembly Interpreter](https://github.com/Chris-1101/codewars/tree/master/5kyu-simple-assembly-interpreter) <!-- 15 -->
 * 5-Kyu ፨ [Directions Reduction](https://github.com/Chris-1101/codewars/tree/master/5kyu-directions-reduction) <!-- 03 -->
 * 5-Kyu ፨ [Rot13 Cipher](https://github.com/Chris-1101/codewars/tree/master/5kyu-rot13-cipher) <!-- 12 -->
 * 6-Kyu ፨ [Reverse or Rotate?](https://github.com/Chris-1101/codewars/tree/master/6kyu-reverse-or-rotate) <!-- 01 -->
