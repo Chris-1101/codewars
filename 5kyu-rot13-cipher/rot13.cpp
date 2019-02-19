@@ -1,4 +1,6 @@
+#include <cctype>
 #include <string>
+#include <algorithm>
 
 std::string rot13(std::string msg)
 {
