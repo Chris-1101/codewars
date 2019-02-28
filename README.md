@@ -18,6 +18,7 @@ nkyu-kata-name
 * 3-Kyu ፨ [Last Digit of a Huge Number](https://github.com/Chris-1101/codewars/tree/master/3kyu-last-digit-huge-power) <!-- 11 -->
 * 4-Kyu ፨ [Strings Mix](https://github.com/Chris-1101/codewars/tree/master/4kyu-strings-mix) <!-- 04 -->
 * 4-Kyu ፨ [Large Factorials](https://github.com/Chris-1101/codewars/tree/master/4kyu-large-factorials) <!-- 09 -->
+* 4-Kyu ፨ [Range Extraction](https://github.com/Chris-1101/codewars/tree/master/4kyu-range-extraction) <!-- 15 -->
 * 4-Kyu ፨ [Square Into Squares](https://github.com/Chris-1101/codewars/tree/master/4kyu-square-into-squares) <!-- 05 -->
 * 4-Kyu ፨ [Adding Big Numbers](https://github.com/Chris-1101/codewars/tree/master/4kyu-adding-big-numbers) <!-- 08 -->
 * 4-Kyu ፨ [Sums of Perfect Squares](https://github.com/Chris-1101/codewars/tree/master/4kyu-sum-perfect-squares) <!-- 06 -->
